@@ -1,0 +1,48 @@
+<h4 align="center">
+<img src="./mobile/src/assets/logo@3x.png" width="250px" /><br>
+ <b>Seja um verdadeiro Heroi!</b> 🦸‍♂️
+</h4>
+
+<h2 align="center"> Aplicação para conectar ONGs e outras instituições a pessoas que tem disponibilidade para ajudar </h2>
+
+<br>
+
+### :rocket: Tecnologias usadas
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+- [Node.js](https://nodejs.org/en/)
+- [Expo](https://expo.io/)
+- [Express](https://expressjs.com/pt-br/)
+- [React](https://pt-br.reactjs.org/)
+
+Extras:
+
+- Main Libs
+  - [Express](https://expressjs.com/pt-br/)
+  - [KnexJS](http://knexjs.org/)
+  - [Toast Notification](https://github.com/jossmac/react-toast-notifications)
+- Estilos
+  - [EditorConfig](https://editorconfig.org/)
+  - [ESLint](https://eslint.org/)
+  - [Prettier](https://prettier.io/)
+  
+### 💻 Demo Web
+
+[https://be-the-hero-oficial.netlify.com/](https://be-the-hero-oficial.netlify.com/)
+
+## :wrench: Para rodar a aplicação
+
+> OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
+
+Execute ```npm install``` nas pastas backend, frontend e mobile, para instalar as dependências.
+
+Rode ```npm start``` nas pastas backend e frontend para utilizar a versão web. Acesse via **localhost:3000**.
+
+Rode ```npm start``` nas pastas backend e mobile, acesse **localhost:19002**, leia o QR Code no seu celular e utilize o aplicativo <img src="imgs/expo.png" alt="rocketseat" height="20"> Expo para rodar a versão mobile no seu smartphone. Ou com algum emulador Android/iOS para rodar no seu computador.
+
+### :mortar_board: Quem ministrou?
+
+A semana foi ministrada pelo [Diego Fernandes](https://github.com/diego3g)
+
+### :memo: Licença
+
+Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE.md) para mais detalhes.
