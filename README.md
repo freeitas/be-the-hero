@@ -7,23 +7,6 @@
 
 <br>
 
-### :rocket: Tecnologias usadas
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-- [Node.js](https://nodejs.org/en/)
-- [Expo](https://expo.io/)
-- [React](https://pt-br.reactjs.org/)
-
-Extras:
-
-- Main Libs
-  - [Express](https://expressjs.com/pt-br/)
-  - [KnexJS](http://knexjs.org/)
-  - [Toast Notification](https://github.com/jossmac/react-toast-notifications)
-
-### 💻 Demo Web
-
-[https://be-the-hero-oficial.netlify.com/](https://be-the-hero-oficial.netlify.com/)
-
 ## :wrench: Para rodar a aplicação
 
 > OBS: pode-se utilizar o gerenciador de pacotes npm ou o yarn para rodar os comandos abaixo
